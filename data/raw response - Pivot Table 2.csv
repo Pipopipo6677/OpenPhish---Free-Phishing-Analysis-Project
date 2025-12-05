@@ -1,0 +1,8 @@
+COUNTA of URL Type,URL Type,,,,,
+Phishing Volume by Host Provider,Credential Theft,Crypto / Wallet Theft,Document/Download Scam,Support Scam,Unknown,Grand Total
+GitHub,5,,,,27,32
+Netlify,,,,,4,4
+Other,23,29,12,1,172,237
+Vercel,4,1,1,1,18,25
+Weebly,,,,,1,1
+Grand Total,32,30,13,2,222,299
